@@ -1,0 +1,12 @@
+Generic/AnyMsaPhone	en_US	Generic-AnyMsaPhone-en_US-chartitem.jar	Generic-AnyMsaPhone-en_US-chartitem.jad	-	nullxnull
+
+Generic/AnyPhone	en_US	Generic-AnyPhone-en_US-chartitem.jar	Generic-AnyPhone-en_US-chartitem.jad	-	nullxnull
+
+Nokia/Series40E3	en_US	Nokia-Series40E3-en_US-chartitem.jar	Nokia-Series40E3-en_US-chartitem.jad	-	240x320xnull
+
+Nokia/Series60E3	en_US	Nokia-Series60E3-en_US-chartitem.jar	Nokia-Series60E3-en_US-chartitem.jad	-	176x208xnull
+
+Sony-Ericsson/JavaPlatform7	en_US	Sony-Ericsson-JavaPlatform7-en_US-chartitem.jar	Sony-Ericsson-JavaPlatform7-en_US-chartitem.jad	-	nullxnull
+
+Sony-Ericsson/JavaPlatform8	en_US	Sony-Ericsson-JavaPlatform8-en_US-chartitem.jar	Sony-Ericsson-JavaPlatform8-en_US-chartitem.jad	-	nullxnull
+

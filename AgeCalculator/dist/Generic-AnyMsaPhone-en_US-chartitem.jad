@@ -1,0 +1,8 @@
+MIDlet-Name: Chart
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Enough Software
+MIDlet-Jar-URL: Generic-AnyMsaPhone-en_US-chartitem.jar
+MIDlet-Jar-Size: 114241
+MIDlet-Description: A demonstration of the J2ME Polish ChartItem.
+MIDlet-Info-URL: http://www.j2mepolish.org
+MIDlet-1: Agecalc,,com.de.Agecalc

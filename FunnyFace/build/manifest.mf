@@ -1,0 +1,9 @@
+MIDlet-1: FunnyFace,/icon.png,FunnyFace
+MIDlet-Permissions: javax.microedition.io.Connector.file.read, javax.microedition.io.Connector.file.write
+Nokia-MIDlet-App-Orientation: Portrait
+MIDlet-Vendor: sisconsoft
+Nokia-MIDlet-On-Screen-Keypad: no
+MIDlet-Name: FunnyFace
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

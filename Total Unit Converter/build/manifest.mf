@@ -1,0 +1,8 @@
+MIDlet-1: TotalUnitConverter,/icon.png,TotalUnitConverter
+Nokia-MIDlet-App-Orientation: Portrait
+MIDlet-Vendor: Sisconsoft
+Nokia-MIDlet-On-Screen-Keypad: no
+MIDlet-Name: Total Unit Converter
+MIDlet-Version: 2.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

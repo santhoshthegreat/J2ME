@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MIDlet-Name: Chart
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Enough Software
+MIDlet-Description: A demonstration of the J2ME Polish ChartItem.
+MIDlet-Info-URL: http://www.j2mepolish.org
+MIDlet-1: Agecalc,,com.de.Agecalc
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+Polish-Version: 2.1.4 (2010-01-18)

@@ -1,0 +1,8 @@
+MIDlet-1: Agecalc,,com.de.Agecalc
+MIDlet-Jar-Size: 2941
+MIDlet-Jar-URL: AgeCalculator.jar
+MIDlet-Name: AgeCalculator
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

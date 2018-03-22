@@ -1,0 +1,8 @@
+MIDlet-1: Thirukkural,/icon.png,Thirukkural
+Nokia-MIDlet-App-Orientation: Landscape
+MIDlet-Vendor: sisconsoft
+Nokia-MIDlet-On-Screen-Keypad: no
+MIDlet-Name: Thirukkural
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
